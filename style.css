@@ -1,0 +1,41 @@
+body
+{
+    text-align: center;
+}
+h2
+{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+
+}
+a
+{
+    color: #b1cc18 !important;
+}
+a:hover
+{
+    font-size:20px;
+    text-decoration: underline !important;
+}
+img
+{
+    border-radius: 50%;
+}
+h3
+{
+    font-family: 'Combo', cursive;
+
+}
+p
+{
+    font-family: 'Ms Madi', cursive;
+    font-size: 30px
+}
+.cp
+{
+    font-family: 'Roboto Slab', serif;
+}
+.img2
+{
+    size: 10cm;
+}
